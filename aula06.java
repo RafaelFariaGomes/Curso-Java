@@ -2,7 +2,7 @@
 
 public class aula06 {
     public static void main(String[] args){
-        int[] num = new int[5];
+       /* int[] num = new int[5];
         int[] numeros = {10,20,30,40,50};
 
         num[0] = 77;
@@ -15,6 +15,10 @@ public class aula06 {
         System.out.printf("numero do Array numeros: %d \n", numeros[i]);
 
         }
-
+        */
+        final int tam = 5;
+        char[] gabarito = {'a', 'a', 'd', 'b', 'c'};
+        char[] respostas = new char[tam];
+        int nota = 0;
     }
 }
