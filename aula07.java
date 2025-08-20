@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class aula07 {
+public class aula07{
     public static void main(String[] args) {
 
         int tam = 10;
